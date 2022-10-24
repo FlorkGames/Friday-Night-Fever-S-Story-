@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="lilskellyuglyaf.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="achievements0000" x="5" y="5" width="411" height="426"/>
+	<SubTexture name="achievements0001" x="5" y="5" width="411" height="426"/>
+	<SubTexture name="achievements0002" x="421" y="5" width="411" height="426"/>
+	<SubTexture name="achievements0003" x="421" y="5" width="411" height="426"/>
+	<SubTexture name="achievements0004" x="837" y="5" width="411" height="426"/>
+	<SubTexture name="achievements0005" x="837" y="5" width="411" height="426"/>
+	<SubTexture name="credits0000" x="1253" y="5" width="371" height="323"/>
+	<SubTexture name="credits0001" x="1253" y="5" width="371" height="323"/>
+	<SubTexture name="credits0002" x="1629" y="5" width="371" height="323"/>
+	<SubTexture name="credits0003" x="1629" y="5" width="371" height="323"/>
+	<SubTexture name="credits0004" x="5" y="436" width="371" height="323"/>
+	<SubTexture name="credits0005" x="5" y="436" width="371" height="323"/>
+	<SubTexture name="freeplay0000" x="381" y="436" width="424" height="396"/>
+	<SubTexture name="freeplay0001" x="381" y="436" width="424" height="396"/>
+	<SubTexture name="freeplay0002" x="810" y="436" width="424" height="396"/>
+	<SubTexture name="freeplay0003" x="810" y="436" width="424" height="396"/>
+	<SubTexture name="freeplay0004" x="1239" y="436" width="424" height="396"/>
+	<SubTexture name="freeplay0005" x="1239" y="436" width="424" height="396"/>
+	<SubTexture name="settings0000" x="5" y="837" width="443" height="427"/>
+	<SubTexture name="settings0001" x="5" y="837" width="443" height="427"/>
+	<SubTexture name="settings0002" x="453" y="837" width="443" height="427"/>
+	<SubTexture name="settings0003" x="453" y="837" width="443" height="427"/>
+	<SubTexture name="settings0004" x="901" y="837" width="443" height="427"/>
+	<SubTexture name="settings0005" x="901" y="837" width="443" height="427"/>
+	<SubTexture name="storymode0000" x="1349" y="837" width="414" height="387"/>
+	<SubTexture name="storymode0001" x="1349" y="837" width="414" height="387"/>
+	<SubTexture name="storymode0002" x="5" y="1269" width="414" height="387"/>
+	<SubTexture name="storymode0003" x="5" y="1269" width="414" height="387"/>
+	<SubTexture name="storymode0004" x="424" y="1269" width="414" height="387"/>
+	<SubTexture name="storymode0005" x="424" y="1269" width="414" height="387"/>
+</TextureAtlas>

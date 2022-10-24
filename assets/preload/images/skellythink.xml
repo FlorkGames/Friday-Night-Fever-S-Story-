@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skellythink.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skellythink0000" x="5" y="5" width="549" height="487" frameX="0" frameY="-25" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0001" x="5" y="5" width="549" height="487" frameX="0" frameY="-25" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0002" x="559" y="5" width="530" height="506" frameX="-10" frameY="-8" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0003" x="559" y="5" width="530" height="506" frameX="-10" frameY="-8" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0004" x="1094" y="5" width="521" height="513" frameX="-15" frameY="-2" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0005" x="1094" y="5" width="521" height="513" frameX="-15" frameY="-2" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0006" x="5" y="523" width="515" height="515" frameX="-18" frameY="0" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0007" x="5" y="523" width="515" height="515" frameX="-18" frameY="0" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0008" x="5" y="523" width="515" height="515" frameX="-18" frameY="0" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0009" x="5" y="523" width="515" height="515" frameX="-18" frameY="0" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0010" x="5" y="523" width="515" height="515" frameX="-18" frameY="0" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0011" x="5" y="523" width="515" height="515" frameX="-18" frameY="0" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0012" x="5" y="523" width="515" height="515" frameX="-18" frameY="0" frameWidth="549" frameHeight="515"/>
+	<SubTexture name="skellythink0013" x="5" y="523" width="515" height="515" frameX="-18" frameY="0" frameWidth="549" frameHeight="515"/>
+</TextureAtlas>
