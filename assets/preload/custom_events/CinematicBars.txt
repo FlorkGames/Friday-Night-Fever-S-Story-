@@ -1,0 +1,3 @@
+Just trigger the event to go in or out, no values
+are required but you can still  use the values to
+tell whether the cinematic bars are in or out.

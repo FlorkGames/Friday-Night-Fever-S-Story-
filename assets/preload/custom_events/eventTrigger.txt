@@ -1,0 +1,4 @@
+this event will play any midsong event that is
+named in the first value
+(you can find the events in the stages lua file)
+the second value does nothing
