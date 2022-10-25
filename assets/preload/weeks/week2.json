@@ -1,22 +1,58 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
-	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
+	"storyName": "Scorp",
+	"difficulties": "Hard, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "",
 	"weekBefore": "week1",
-	"weekName": "Week 2",
-	"startUnlocked": true,
-
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekCharacters": [
+		"",
+		"",
+		"scorp"
+	],
+	"songs": [
+		[
+			"Scorpio",
+			"scorp",
+			[
+				20,
+				215,
+				20
+			]
+		],
+		[
+			"Fireball",
+			"scorp",
+			[
+				20,
+				215,
+				20
+			]
+		],
+		[
+			"Malfunction",
+			"stadic",
+			[
+				100,
+				0,
+				155
+			]
+		],
+		[
+			"Holographic",
+			"stadic",
+			[
+				100,
+				0,
+				155
+			]
+		]
+	],
+	"weekName": "Scorp"
 }
